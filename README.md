@@ -1,6 +1,8 @@
 # Product-and-Transactions-list-Business-Analysis
 ## Summary
 
+https://lookerstudio.google.com/s/uzyLsZzg2qg
+
 The 3 pie charts represent the top 6 States for sales per year 2018, 2019, 2020. For all 3 years, Queensland is the State with more sales, with a percentage of 31,24% for 2018, 28,96% for 2019 and 29,13% for 2020, and with 2018 being the year with more sales for this State.
 For 2018, Queensland is followed by Tasmania and Victoria, 2019 by Victoria and Northen Territory and 2020 by Northen Territory and Tasmania.
 New South Wales is the State with the least number of sales, both in 2018 and 2020; while for 2019 Australian Capital Territory is at the bottom of the sales.
