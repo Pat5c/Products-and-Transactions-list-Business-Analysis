@@ -3,6 +3,8 @@ Sales Performance Across Australian States (2018-2020)
 
 👉 View Dashboard on Looker Studio: [https://lookerstudio.google.com/s/uzyLsZzg2qg](https://lookerstudio.google.com/u/0/reporting/4105b6ae-ccfb-4f2a-9ed6-29933eff67c3/page/p_lk7667h28c?s=uzyLsZzg2qg)
 
+![NMrA9Cy](https://github.com/user-attachments/assets/ab9251f1-ec06-4dc3-8cc8-8d89faf08e97)
+
 ### Project Overview 🔍 
 This project analyzes sales data across Australian states from 2018 to 2020, focusing on product performance and regional trends. Through various visualizations and detailed analysis, the project provides insights into sales distribution, state-by-state performance, and top-selling products.
 
