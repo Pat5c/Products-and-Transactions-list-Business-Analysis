@@ -6,7 +6,7 @@ Sales Performance Across Australian States (2018-2020)
 This project analyzes sales data across Australian states from 2018 to 2020, focusing on product performance and regional trends. Through various visualizations and detailed analysis, the project provides insights into sales distribution, state-by-state performance, and top-selling products.
 
 ### Key Findings 📈 
-### Queensland Leads in Sales
+## Queensland Leads in Sales
 Queensland consistently ranked #1 in sales across all three years.
 
 Highest contribution:
