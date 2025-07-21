@@ -34,7 +34,7 @@ Other states like Tasmania, Northern Territory, and Victoria showed variable per
 #### States with Lower Sales
 New South Wales and Australian Capital Territory regularly appeared at the bottom of sales rankings.
 
-📊 ### Monthly Sales Patterns
+#### Monthly Sales Patterns
 March 2018 marked the highest monthly sales for Queensland (29,000+).
 
 Lowest monthly sales: Northern Territory in October 2018 with just 314 sales.
