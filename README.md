@@ -1,4 +1,4 @@
-# Products and Transactions List - Business Analysis
+# Products and Sales Performance - A Business Analysis
 Sales Performance Across Australian States (2018-2020)
 
 👉 View Dashboard on Looker Studio: [https://lookerstudio.google.com/s/uzyLsZzg2qg](https://lookerstudio.google.com/u/0/reporting/4105b6ae-ccfb-4f2a-9ed6-29933eff67c3/page/p_lk7667h28c?s=uzyLsZzg2qg)
